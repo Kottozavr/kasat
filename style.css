@@ -1,0 +1,22 @@
+.books article h2 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border: 1px black;
+    background-color: rgba(47, 0, 255, 0.445);
+    text-shadow: rgba(255, 0, 21, 0.685) 1px 0 10px;
+}
+.author h1 {
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 4px rgba(189, 27, 27, 0.671);
+    background-color: rgba(48, 14, 141, 0.801);
+}
+p {
+    color: white;
+    width: auto;
+    text-align: justify;
+    }
+.content {
+    background-color: rgb(76, 125, 180)  
+}
